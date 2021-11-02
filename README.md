@@ -10,7 +10,7 @@
 - 📍 hangzhou
 - 👨‍🎓 ZJU
 
-🛠  Tech Stack
+🛠&nbsp;&nbsp;  Tech Stack
 ----
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff)
@@ -29,5 +29,6 @@
 &emsp;
 
 🚴🏻  GitHub Activity Graph
+----
 [![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
 
