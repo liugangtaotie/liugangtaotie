@@ -15,7 +15,7 @@
 🛠&nbsp;&nbsp;  Tech Stack
 ----
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-Micro-app-008000?style=flat-square&logo=Micro-app&labelColor=90EE90&color=fff)
+![](https://img.shields.io/badge/Micro--app-Micro--app-yellow)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
