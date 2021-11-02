@@ -20,7 +20,7 @@
 
 &emsp;
 
-📚 GitHub Analytics
+📚&nbsp;&nbsp; GitHub Analytics
 ----
 ![liugangtaotie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugangtaotie&show_icons=true&theme=radical)
 
@@ -28,7 +28,7 @@
 
 &emsp;
 
-🚴🏻  GitHub Activity Graph
+🚴🏻&nbsp;&nbsp;  GitHub Activity Graph
 ----
 [![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
 
