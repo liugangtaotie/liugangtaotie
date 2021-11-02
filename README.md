@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="drawing" width="50"/>
 ### I'm LiuGang (无相居士) .
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=liugangtaotie)
+* * * 
+![](https://visitor-badge.glitch.me/badge?page_id=liugangtaotie)
 
 
 - 🌱 I’m currently learning nodejs
