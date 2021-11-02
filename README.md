@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I'm LiuGang (无相居士) .
+### Hi there 👋 
+### Hi [![img](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif)](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif), I'm LiuGang (无相居士) .
 
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on micro-app
