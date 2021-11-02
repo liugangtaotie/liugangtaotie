@@ -23,3 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact)](https://github.com/liugangtaotie/github-readme-stats)
 
 
+[![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
+
