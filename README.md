@@ -14,3 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact)](https://github.com/liugangtaotie/github-readme-stats)
 
+[![liugangtaotie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liugangtaotie)](https://github.com/liugangtaotie/github-readme-stats)
