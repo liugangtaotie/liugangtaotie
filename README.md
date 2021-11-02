@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate on micro-app
 - 💬 Ask me about github
-- 📍 杭州
+- 📍 hangzhou
 - 👨‍🎓 ZJU
 
 <!--
