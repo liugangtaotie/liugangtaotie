@@ -3,6 +3,7 @@
 I'm LiuGang (无相居士)
 ---
 ![](https://visitor-badge.glitch.me/badge?page_id=liugangtaotie)
+<img src="https://gpvc.arturio.dev/liugangtaotie" alt="profile views">
 
 
 - 🌱 I’m currently learning nodejs
