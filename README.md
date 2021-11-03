@@ -28,12 +28,12 @@ I'm LiuGang (无相居士)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact)](https://github.com/liugangtaotie/github-readme-stats)
 
-<a href="https://github.com/liugangtaotie/github-readme-stats">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liugangtaotie&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/liugangtaotie/convoychat">
+
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=liugangtaotie&repo=convoychat" />
-</a>
+
 
 
 
