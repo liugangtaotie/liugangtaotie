@@ -48,6 +48,9 @@ I'm LiuGang (无相居士)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact)](https://github.com/liugangtaotie/github-readme-stats)
 
 
+| <a href="https://github.com/liugangtaotie/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=liugangtaotie&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 &emsp;
 
 🚴🏻&nbsp;&nbsp;  GitHub Activity Graph
