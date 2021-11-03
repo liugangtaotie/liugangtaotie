@@ -69,7 +69,6 @@ I'm LiuGang (wuxiang)
 [![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11月3日星期三 GMT+8 下午10:49<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/liugangtaotie/liugangtaotie/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/liugangtaotie/liugangtaotie?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/liugangtaotie/liugangtaotie?style=flat-square&labelColor=343b41"/></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11月3日星期三 GMT+8 下午10:52<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 
