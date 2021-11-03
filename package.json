@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/liugangtaotie/liugangtaotie/issues"
   },
-  "homepage": "https://github.com/liugangtaotie/liugangtaotie#readme"
+  "homepage": "https://github.com/liugangtaotie/liugangtaotie#readme",
+  "devDependencies": {
+    "mustache": "^4.2.0"
+  }
 }
