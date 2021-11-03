@@ -24,7 +24,7 @@ I'm LiuGang (无相居士)
 
 📚&nbsp;&nbsp; GitHub Analytics
 ----
-![liugangtaotie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugangtaotie&show_icons=true&theme=dark)
+![liugangtaotie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liugangtaotie&show_icons=true&theme=dark&card_width=500)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liugangtaotie&layout=compact)](https://github.com/liugangtaotie/github-readme-stats)
 
