@@ -3,7 +3,6 @@
 I'm LiuGang (wuxiang)
 ---
 ![](https://visitor-badge.glitch.me/badge?page_id=liugangtaotie)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fliugangtaotie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://liugangtaotie.github.io)
 
 
 - 🌱 I’m currently learning nodejs
@@ -70,6 +69,6 @@ I'm LiuGang (wuxiang)
 [![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11月11日星期四 GMT+8 下午10:40<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 11月13日星期六 GMT+8 上午8:51<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 
