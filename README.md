@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="drawing" width="50"/>
+### Hi there <img src="https://user-images.githubusercontent.com/22477383/146792421-ccbe37cb-d5f7-4fcd-b7d5-c051bb2a87e1.gif" alt="drawing" width="50"/>
 
 I'm LiuGang (wuxiang)
 ---
@@ -71,6 +71,6 @@ I'm LiuGang (wuxiang)
 [![liugangtaotie's github activity graph](https://activity-graph.herokuapp.com/graph?username=liugangtaotie&theme=dracula)](https://github.com/liugangtaotie/github-readme-activity-graph)
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12月20日星期一 GMT+8 下午11:29<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 12月20日星期一 GMT+8 下午11:32<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
 
