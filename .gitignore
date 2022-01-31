@@ -8,6 +8,7 @@ outputProd.js
 # local env files
 .env.local
 .env.*.local
+.history
 
 # Log files
 npm-debug.log*
