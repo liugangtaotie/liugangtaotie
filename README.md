@@ -74,4 +74,4 @@ I'm LiuGang (wuxiang)
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: 2月2日星期三 GMT+8 下午5:23<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/liugangtaotie/liugangtaotie/output/github-contribution-grid-snake.svg)
